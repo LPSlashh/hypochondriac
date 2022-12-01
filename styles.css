@@ -1,0 +1,92 @@
+/******************TAG SELECTORS******************/
+
+body {
+
+    margin: 0;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+}
+
+h1 {
+    margin: 50px auto 0 auto;
+    font-family: 'Sacramento', cursive;
+    font-size: 7rem;
+    color: rgba(145, 112, 4, 0.753);
+    line-height: 2;
+    
+}
+
+h2 {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2.5rem;
+    color: rgba(145, 112, 4, 0.753);
+    font-weight: normal;
+}
+
+h3 {
+    font-family: 'Montserrat', sans-serif;
+}
+
+p {
+    display: block;
+    margin-top: 0;
+
+}
+
+hr {
+    white-space: 0;
+    margin: 0;
+    color: black;
+    width: 100%;
+    height: 10px;
+    background-color: black;
+    border-style: dotted;
+    
+}
+/******************ClASS SELECTORS******************/
+
+.top-container {
+    
+    position: relative;
+    padding-top: 100px;
+    background-color: #464E2E;
+    background-image:url(https://i.ytimg.com/vi/YQuG7UkC9go/maxresdefault.jpg)
+
+}
+
+.mid-container {
+    background-color: rgba(145, 112, 4, 0.753);
+    margin: 0;
+    padding: 25px;
+
+}
+
+.bot-container {
+    background-color: #464E2E;
+    background-image:url(https://i.ytimg.com/vi/YQuG7UkC9go/maxresdefault.jpg)
+  
+
+}
+
+.pro {
+    text-decoration: underline;
+}
+
+
+
+
+.skill-row {
+    width: 50%;
+    margin: 100px auto;
+
+}
+.botp {
+    margin: 0;
+}
+.hypo {
+    position:relative;
+    bottom: -4px;
+
+}
+
+
